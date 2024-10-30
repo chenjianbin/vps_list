@@ -12,6 +12,7 @@
 
 ---
 ### 常规线路云厂商
+[alibabacloud](https://www.aliyun.com/minisite/goods?userCode=ef4zbqys)
 [vultr](https://www.vultr.com/?ref=9540050-8H)
 
 
