@@ -1,8 +1,8 @@
 # vps_list
 ### CN2线路云厂商
-[moecloud](https://lite.moe/aff.php?aff=114838)
+[moecloud](https://lite.moe/aff.php?aff=114838)(美国/英国)
 
-[akkocloud](https://www.akkocloud.com/aff.php?aff=1586)
+[akkocloud](https://www.akkocloud.com/aff.php?aff=1586)(美国/英国/德国)
 
 [gisgiscloud](https://clientarea.gigsgigscloud.com/?affid=4008)
 
