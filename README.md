@@ -41,4 +41,6 @@
 
 [webshare](https://www.webshare.io/?referral_code=lah5huc7uw1o)
 
+[proxy-cheap](https://app.proxy-cheap.com/r/7wEAw6)
+
 [proxy-seller](https://proxy-seller.com/zh/?partner=WVPVQJ7UXD4QG7) #优惠券代码: XHOFVC_944917
