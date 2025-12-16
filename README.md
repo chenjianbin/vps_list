@@ -6,6 +6,8 @@
 
 [akkocloud](https://www.akkocloud.com/aff.php?aff=1586)(美国/英国/德国)
 
+[dmit](https://www.dmit.io/aff.php?aff=15534)(香港/日本/美国)
+
 [gigsgigscloud](https://clientarea.gigsgigscloud.com/?affid=4008)(香港/日本/美国)
 
 [搬瓦工](https://bandwagonhost.com/aff.php?aff=75595)(香港/日本/美国)
