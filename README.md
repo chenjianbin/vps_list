@@ -12,6 +12,8 @@
 
 [搬瓦工](https://bandwagonhost.com/aff.php?aff=75595)(香港/日本/美国)
 
+[ufovps](https://www.ufovps.com/aff.php?aff=1384)(香港/日本/美国)
+
 [荧光云](https://console.lightnode.cn/quick.html?ref=ssfhp4gv&promoteWay=LINK )(香港/美国/德国)
 
 ---
