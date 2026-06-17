@@ -8,7 +8,7 @@
 | [akkocloud](https://www.akkocloud.com/aff.php?aff=1586) | 美国 / 英国 / 德国 | 支付宝 |
 | [dmit](https://www.dmit.io/aff.php?aff=15534) | 香港 / 日本 / 美国 | 支付宝 / 信用卡 / PayPal |
 | [gigsgigscloud](https://clientarea.gigsgigscloud.com/?affid=4008) | 香港 / 日本 / 美国 | 支付宝 / 虚拟币 |
-| [搬瓦工](https://bandwagonhost.com/aff.php?aff=75595) | 香港 / 日本 / 美国 | 信用卡 |
+| [搬瓦工](https://bandwagonhost.com/aff.php?aff=75595) | 香港 / 日本 / 美国 | 支付宝 / 信用卡 / PayPal / Unionpay |
 | [ufovps](https://www.ufovps.com/aff.php?aff=1384) | 香港 / 日本 / 美国 | 支付宝 / 微信 / PayPal |
 | [荧光云](https://console.lightnode.cn/quick.html?ref=ssfhp4gv&promoteWay=LINK) | 香港 / 美国 / 德国 | 支付宝 |
 | [vmiss](https://app.vmiss.com/aff.php?aff=5580) | 美国 | 信用卡 |
