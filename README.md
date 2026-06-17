@@ -2,21 +2,23 @@
 ---
 ### CN2线路云厂商
 
-[moecloud](https://lite.moe/aff.php?aff=114838)(美国/英国)
+[moecloud](https://lite.moe/aff.php?aff=114838)(美国/英国)             # 支付宝支付
 
-[akkocloud](https://www.akkocloud.com/aff.php?aff=1586)(美国/英国/德国)
+[akkocloud](https://www.akkocloud.com/aff.php?aff=1586)(美国/英国/德国) # 支付宝支付
 
-[dmit](https://www.dmit.io/aff.php?aff=15534)(香港/日本/美国)
+[dmit](https://www.dmit.io/aff.php?aff=15534)(香港/日本/美国)           # 支付宝 信用卡支付
 
-[gigsgigscloud](https://clientarea.gigsgigscloud.com/?affid=4008)(香港/日本/美国)
+[gigsgigscloud](https://clientarea.gigsgigscloud.com/?affid=4008)(香港/日本/美国)  # 支付宝 虚拟币支付
 
-[搬瓦工](https://bandwagonhost.com/aff.php?aff=75595)(香港/日本/美国)
+[搬瓦工](https://bandwagonhost.com/aff.php?aff=75595)(香港/日本/美国)               # 信用卡支付
 
-[ufovps](https://www.ufovps.com/aff.php?aff=1384)(香港/日本/美国)
+[ufovps](https://www.ufovps.com/aff.php?aff=1384)(香港/日本/美国)                  
 
-[荧光云](https://console.lightnode.cn/quick.html?ref=ssfhp4gv&promoteWay=LINK )(香港/美国/德国)
+[荧光云](https://console.lightnode.cn/quick.html?ref=ssfhp4gv&promoteWay=LINK )(香港/美国/德国)  # 支付宝支付
 
-[vmiss](https://app.vmiss.com/aff.php?aff=5580)(美国)
+[vmiss](https://app.vmiss.com/aff.php?aff=5580)(美国)    # 信用卡支付
+
+[hostdare](https://bill.hostdare.com/aff.php?aff=4639)(美国)  # 信用卡支付
 
 ---
 ### 常规线路云厂商
