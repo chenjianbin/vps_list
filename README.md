@@ -16,6 +16,8 @@
 
 [荧光云](https://console.lightnode.cn/quick.html?ref=ssfhp4gv&promoteWay=LINK )(香港/美国/德国)
 
+[vmiss](https://app.vmiss.com/aff.php?aff=5580)(美国)
+
 ---
 ### 常规线路云厂商
 
