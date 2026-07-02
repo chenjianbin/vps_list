@@ -36,6 +36,7 @@
 | 平台 | 链接 |
 |------|------|
 | sms-activate | [sms-activate.org](https://sms-activate.org/?ref=7923173) |
+| hero-sms | [hero-sms](https://hero-sms.com/?ref=1349220)|
 
 ### 代理平台（SOCKS5 / HTTP / HTTPS）
 
