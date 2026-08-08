@@ -2,7 +2,7 @@
 ---
 ## CN2 线路云厂商
 
-| 厂商 | 节点 | 支付方式 |
+| 厂商 | 地区 | 支付方式 |
 |------|------|----------|
 | [moecloud](https://lite.moe/aff.php?aff=114838) | 美国 / 英国 | 支付宝 |
 | [akkocloud](https://www.akkocloud.com/aff.php?aff=1586) | 美国 / 英国 / 德国 | 支付宝 |
